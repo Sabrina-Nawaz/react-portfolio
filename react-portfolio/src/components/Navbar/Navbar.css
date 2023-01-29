@@ -1,0 +1,35 @@
+/*HEADER*/
+
+header {
+    background-color: #424C58;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+header h1 {
+    background-color: rgb(120, 201, 215);
+    color: #424C58;
+}
+
+header img {
+    border: 2px solid #ddd;
+    border-radius: 100px;
+    height: 120px;
+}
+
+header nav {
+    display: flex;
+    gap: 20px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px
+}
+
+header nav a:hover {
+    color: rgb(0, 162, 255);
+}
