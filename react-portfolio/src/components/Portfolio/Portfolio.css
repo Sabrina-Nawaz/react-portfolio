@@ -16,10 +16,6 @@ section {
     text-align: right;
     font-size: 30px;
 }
-.side-bar p {
-
-
-}
 
 .side-bar > div{
     flex: 0 0 77%;  
@@ -46,7 +42,7 @@ section {
 }
 
 .study-guide  {
-    background-image: url(./imgs/Pre-Work\ Study.png);
+    background-image: url(../../../public/assets/Pre-Work\ Study.png);
     padding-bottom: 16.62%;
 }
 
@@ -54,14 +50,22 @@ section {
     grid-area: refactor;
 }
 .refactor {
-    background-image: url(./imgs/refactor.png);
+    background-image: url(../../../public/assets/refactor.png);
     padding-bottom: 50%;
 }
 
-.calc {
-    grid-area: calculator;
-}
+
 .calculator {
-    background-image: url(./imgs/calculator.png);
+    background-image: url(../../../public/assets/calculator.png);
     padding-bottom: 50%;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+}
+
+.project img{
+    width: 100%;
 }
