@@ -1,0 +1,22 @@
+section {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.side-bar {
+    display: flex;
+    gap: 30px;
+
+}
+
+.side-bar > h2 {
+    flex: 0 0 20%;
+    border-right: 5px solid black;
+    text-align: right;
+    font-size: 30px;
+}
+
+.side-bar > div{
+    flex: 0 0 77%;  
+}
