@@ -1,3 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(212, 225, 230);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0
+}
+
 .hero {
     background-color: #fff;
     min-height: 20vh;
@@ -5,7 +21,7 @@
     justify-content: space-between;
     align-items: flex-end;
     text-align: right;
-    background-image: url(./imgs/gradienta-gwE9vXSi7Xw-unsplash.jpg);
+    background-image: url(../../../public/assets/gradienta-gwE9vXSi7Xw-unsplash.jpg);
     background-size: 100% 100%;
 }
 
