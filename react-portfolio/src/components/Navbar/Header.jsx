@@ -7,7 +7,8 @@ export default function Header() {
       <div>
       <header>
       <h1>Sabrina Nawaz</h1>
-    <img className="header-logo" src="/assets/logo.png" alt="Sabrina"/>
+      <a href="/about"><img className="header-logo" src="/assets/logo.png" alt="Sabrina"/></a>
+    
 <Navbar/>
   </header>
   </div>

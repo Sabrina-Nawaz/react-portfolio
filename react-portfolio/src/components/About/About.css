@@ -1,13 +1,19 @@
 section {
-    width: 100%;
+    width: auto;
     padding: 0;
     margin: 0;
+}
+
+.about>p{
+    
+    inline-size: 800px;
+    overflow-wrap: break-word;
+    font-size: 20px;
 }
 
 .side-bar {
     display: flex;
     gap: 30px;
-
 }
 
 .side-bar > h2 {
@@ -20,3 +26,26 @@ section {
 .side-bar > div{
     flex: 0 0 77%;  
 }
+
+@media only screen and (max-width: 600px) {
+    /* .study-guide, .refactor, .calculator, .side-bar p
+    {
+        margin: 0;
+        
+    }
+
+    main {
+        padding: 10px;
+    } */
+
+    .side-bar {
+        display: inline-block;
+    }
+
+    .side-bar h2 {
+        border-right: none;
+        border-bottom: 5px solid black;
+        text-align: left;
+    }
+}
+
