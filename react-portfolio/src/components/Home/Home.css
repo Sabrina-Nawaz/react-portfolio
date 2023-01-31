@@ -1,0 +1,24 @@
+.hero {
+    background-color: #fff;
+    min-height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    text-align: right;
+    background-image: url(./imgs/gradienta-gwE9vXSi7Xw-unsplash.jpg);
+    background-size: 100% 100%;
+}
+
+.hero div h2 {
+    font-size: 45px;
+    background-color: rgb(120, 201, 215);
+    color: #424C58;
+}
+
+.hero img {
+    width: 200px;
+    height: 300px;
+    border-radius: 100px;
+    margin: 30px;
+
+}
