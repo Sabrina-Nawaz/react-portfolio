@@ -13,7 +13,7 @@ section {
 
 .side-bar {
     display: flex;
-    gap: 30px;
+    gap: px;
 }
 
 .side-bar > h2 {
