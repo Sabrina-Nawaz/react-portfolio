@@ -1,30 +1,34 @@
+input {
+padding: 4px 8px;
+width: 100%;
+box-sizing: border-box;
+}
 
-section {
+button {
+padding: 4px 8px;
+background-color: rgb(237, 194, 221);
+color: black;
+border: 1px solid grey;
+width: 100%;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
     width: 100%;
-    padding: 0;
-    margin: 0;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 32px;
+
 }
 
-.side-bar {
+#contact > div {
     display: flex;
-    gap: 30px;
-
+    flex-direction: column;
+    gap: 4px;
+    width: 100%
 }
-
-.side-bar > h2 {
-    padding: 120px;
-    flex: 0 0 25%;
-    border-right: 5px solid black;
-    text-align: right;
-    font-size: 30px;
-}
-.side-bar > div{
-    flex: 0 0 77%;  
-}
-.contactme a {
-    padding: 15px;
-    display: flex;
-    align-items: center;
-    color: black;
-    font-size: 20px;
+.error {
+    color:rgb(244, 101, 101)
 }

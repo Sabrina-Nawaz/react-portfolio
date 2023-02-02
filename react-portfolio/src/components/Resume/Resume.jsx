@@ -1,10 +1,12 @@
 import React from "react";
 import "./Resume.css"
 
-function Resume() {
+export default function Resume() {
     return (
-        <h1>My Resume</h1>
-
+        <div className="resume">
+        <h2>My Resume</h2>
+        <a className="download" href="/assets/Resume.zip">Download Resume</a>
+        <a href="/about"><img src="/assets/Resume.png" alt="Resume"/></a>
+    </div>     
     );
 }
-export default Resume;

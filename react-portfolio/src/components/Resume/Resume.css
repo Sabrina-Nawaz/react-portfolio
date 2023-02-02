@@ -1,0 +1,10 @@
+h2 {
+    font-size: 35px;
+}
+
+.download {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
