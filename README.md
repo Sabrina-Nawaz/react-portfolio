@@ -1,8 +1,4 @@
 # React Portfolio
-<<<<<<< HEAD
-
-=======
->>>>>>> 60f43c2582a2a9aa3382c683f2c567aa8f7eb806
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  <div align="center">
@@ -13,11 +9,7 @@
 
 ## Description
 
-<<<<<<< HEAD
-This portfolio was built with React and JavaScript to exhibit the projects and assignments I have created through the University of Toronto SCS Bootcamp.
-=======
 This portfolio was built with React and JavaScript to exhibit the projects and assignments I have created through the University of Toronto SCS Bootcamp. 
->>>>>>> 60f43c2582a2a9aa3382c683f2c567aa8f7eb806
 
 ## Table of Contents
 
@@ -32,11 +24,7 @@ This portfolio was built with React and JavaScript to exhibit the projects and a
 
 You can install and fork off of this repository, however, these are the following steps that need to be entered in your terminal to download this React application: `npm run build`, `npm install react-router-dom` (for the routes) and lastly `npm start`.
 
-<<<<<<< HEAD
-This portfolio was made through React components to make one dynamic webpage. Each page consists of a footer, header and navigation menu which stays the same throughout all pages. The "About Me" page contains information about me, the Portfolio link consists of applications that have been created, their deployed links once you click on their image and the GitHub links. Lastly, the "Contact Me" has a form a user can use to contact me and if they need more information, they can download my resume from the Resume tab.
-=======
 This portfolio was made through React components to make one dynamic webpage. Each page consists of a footer, header and navigation menu which stays the same throughout all pages. The "About Me" page contains information about me, the Portfolio link consists of applications that have been created, their deployed links once you click on their image and the GitHub links. Lastly, the "Contact Me" has a form a user can use to contact me and if they need more information, they can download my resume from the Resume tab. 
->>>>>>> 60f43c2582a2a9aa3382c683f2c567aa8f7eb806
 
 <img width="1438" alt="Screenshot 2023-02-01 at 8 47 29 PM" src="https://user-images.githubusercontent.com/61954667/216212468-d434a974-233e-4c69-bd40-240d37a97426.png">
 
@@ -61,9 +49,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 If you have any questions about the project you can reach out to me via email or GitHub with the information below.
 
 > Email: sabrinanawaz23@gmail.com
-
 > GitHub: [Sabrina-Nawaz](https://github.com/Sabrina-Nawaz)
-
 ## Credits
 
 All coding done by Sabrina Nawaz.
