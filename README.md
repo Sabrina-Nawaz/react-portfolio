@@ -9,7 +9,7 @@
 
 ## Description
 
-Deployed Link: https://sabrinanawaz-react-portfolio.herokuapp.com/aboutLinks to an external site.
+Deployed Link: https://sabrinanawaz-react-portfolio.herokuapp.com/about
 
 This portfolio was built with React and JavaScript to exhibit the projects and assignments I have created through the University of Toronto SCS Bootcamp. 
 
